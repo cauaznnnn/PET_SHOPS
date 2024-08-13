@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(rgb(136, 251, 255), rgb(105, 105, 104));
+}
+.box{
+    font-family: "Libre Baskerville", serif;
+    height: 600px;
+    width: 500px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 25px;
+    box-shadow: 2px;
+}
+h1{
+    color: cyan;
+    text-align: center;
+}
+.email{
+    width: 350px; height: 50px;
+    margin-top: ;
+    border-radius: 20px;
+    background-color: rgb(203, 207, 209);
+    margin-left: 15%;
+    color: black;
+}
+.senha{
+    width: 350px; height: 50px;
+    margin-top: ;
+    border-radius: 20px;
+    background-color: rgb(203, 207, 209);
+    margin-left: 15%;
+    color: black;
+}
+.entrar{
+    width: 350px; height: 50px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: rgb(0, 60, 255);
+    margin-left: 15%;
+}
+.esqueceu-senha{
+    margin-left: 16%;
+}
+.google{
+    width: 350px; height: 50px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: rgb(123, 165, 255);
+    margin-left: 15%;
+}
+.separacao{
+    margin-left: 16%;
+     color: white;
+}
+.logo-login{
+    height: 90px;
+    width: 90px;
+    border-radius: 90px;
+    margin-left: 42%;
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    color: cyan;
+}
